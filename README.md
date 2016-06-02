@@ -1,0 +1,2 @@
+# struts_spring_test
+此项目主要是配置了struts2和spring结合的过程，其中包括必须存在的jar包，以及基本配置。
